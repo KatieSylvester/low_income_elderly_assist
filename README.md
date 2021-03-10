@@ -2,9 +2,9 @@
 
 _________________________________________________________________
 
-### We were tasked with creating a dashboard for Hand Up America, an organization that provides assistance for low income and elderly taxpayers using the 2016 IRS individual tax return data. HUA would like the dashboard to include state level information, and how those data compare to the national picture. 
+#### We were tasked with creating a dashboard for Hand Up America, an organization that provides assistance for low income and elderly taxpayers using the 2016 IRS individual tax return data. HUA would like the dashboard to include state level information, and how those data compare to the national picture. 
 
-### Below are a series of questions used to help explore the data, develop an analysis and determine the best visualizations for the dashboard. 
+#### Below are a series of questions used to help explore the data, develop an analysis and determine the best visualizations for the dashboard. 
 
 1. Start by creating a table containing the state names, the number of total returns filed, and the number of elderly returns filed. Create a calculated column for the percentage of elderly returns out of total returns filed. Create this table in a new worksheet any way you'd like (recall `tidy data`, where each row is an observation and each column is a variable). One function you might find helpful for this task is the `OFFSET()` function.
 
