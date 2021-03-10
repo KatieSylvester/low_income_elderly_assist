@@ -1,5 +1,7 @@
 ### Excel Dashboard For Informing Low Income and Elderly Assistance Grants
 
+_________________________________________________________________
+
 ### We were tasked with creating a dashboard for Hand Up America, an organization that provides assistance for low income and elderly taxpayers using the 2016 IRS individual tax return data. HUA would like the dashboard to include state level information, and how those data compare to the national picture. 
 
 ### Below are a series of questions used to help explore the data, develop an analysis and determine the best visualizations for the dashboard. 
