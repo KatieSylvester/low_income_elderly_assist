@@ -38,4 +38,5 @@ _________________________________________________________________
 
 ### How to Read This Repo
 
-
+All of the analysis can be found in the analysis_low_income_elderly.xls excel file.
+The dashboard is the PDF file.
