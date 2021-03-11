@@ -2,7 +2,8 @@
 
 _________________________________________________________________
 
-#### We were tasked with creating a dashboard for Hand Up America, an organization that provides assistance for low income and elderly taxpayers using the 2016 IRS individual tax return data. HUA would like the dashboard to include state level information, and how those data compare to the national picture. 
+### Premise
+##### We were tasked with creating a dashboard for Hand Up America, an organization that provides assistance for low income and elderly taxpayers.  We utilized excel for both analyzing the data and creating the dashboard.  The parameters for the dashboard were that it must include state level information and how those data compare to the national picture. 
 
 #### Below are a series of questions used to help explore the data, develop an analysis and determine the best visualizations for the dashboard. 
 
