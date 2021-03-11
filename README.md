@@ -7,6 +7,10 @@ _________________________________________________________________
 
 #### Below are a series of questions used to help explore the data, develop an analysis and determine the best visualizations for the dashboard. 
 
+_________________________________________________________________
+
+### Data Exploration Questions
+
 1. Start by creating a table containing the state names, the number of total returns filed, and the number of elderly returns filed. Create a calculated column for the percentage of elderly returns out of total returns filed. Create this table in a new worksheet any way you'd like (recall `tidy data`, where each row is an observation and each column is a variable). One function you might find helpful for this task is the `OFFSET()` function.
 
 2. Calculate the following information _*for each state*_ to gain insights into the data:  
@@ -24,3 +28,14 @@ _________________________________________________________________
 4. Pull the list of top 10 states with the highest percentage of ` < $1` tax returns. Do this also for the highest percentage of ` > $1,000,000` returns. Can you think of contextual data that could help you understand these results better?
 
 5. Use your findings from the above exercise and any other analyses you think of to create charts or visualizations that might help guide the decision making at HUA. Remember that HUA's goal is to `provide assistance for low income and elderly taxpayers`. Your deliverable will be a single dashboard that captures what you think are the most important factors for HUA to consider.
+
+_________________________________________________________________
+
+### Analysis
+We determined which states had the most elderly tax returns and which states had the most low-income tax returns.  We defined low-income to be annual income of $25k or less.  When cross-referenced, we found the three states that were on both lists and determined those states would most benefit from assitance from Hand Up America.
+
+_________________________________________________________________
+
+### How to Read This Repo
+
+
