@@ -12,7 +12,7 @@
 <br>
 
 ## <a name="general-information"></a>General Information
-We were tasked with creating a dashboard for Hand Up America, an organization that provides assistance for low income and elderly taxpayers.  We utilized excel for both analyzing the data and creating the dashboard.  The parameters for the dashboard were that it must include state level information and how those data compare to the national picture. 
+We were tasked with creating a dashboard for Hand Up America, an organization that provides assistance for low income and elderly taxpayers.  We utilized excel for both analyzing the data and creating the dashboard.  It was mandatory that the dashboard include state level information and how those data compare to the national picture. 
 <br>
 <br>
 
