@@ -51,5 +51,5 @@ The final dashboard is the PDF file.
 <br>
 
 ## <a name="analysis"></a>Analysis/Conclusions
-We determined which states had the most elderly tax returns and which states had the most low-income tax returns.  We defined low-income to be annual income of $25k or less.  When cross-referenced, we found the three states that were on both lists and determined those states would most benefit from assitance from Hand Up America.
+After exploring the data, we determined which states had the most elderly tax returns and which states had the most low-income tax returns.  We defined low-income to be annual income of $25k or less.  When cross-referenced, we found the three states that were on both lists and determined those states would most benefit from assitance from Hand Up America.
 
