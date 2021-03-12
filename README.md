@@ -1,15 +1,34 @@
-### Excel Dashboard For Informing Low Income and Elderly Assistance Grants
+## Excel Dashboard For Informing Low Income and Elderly Assistance Grants
+<br>
+<br>
 
-_________________________________________________________________
+## Table of Contents
+* [General Information](#general-information)
+* [Technologies](#technologies)
+* [Files in this Repository](#files)
+* [Data Exploration Questions](#data)
+* [Analysis/Conclusions](#analysis)
+<br>
+<br>
 
-### Premise
-##### We were tasked with creating a dashboard for Hand Up America, an organization that provides assistance for low income and elderly taxpayers.  We utilized excel for both analyzing the data and creating the dashboard.  The parameters for the dashboard were that it must include state level information and how those data compare to the national picture. 
+## <a name="general-information"></a>General Information
+We were tasked with creating a dashboard for Hand Up America, an organization that provides assistance for low income and elderly taxpayers.  We utilized excel for both analyzing the data and creating the dashboard.  The parameters for the dashboard were that it must include state level information and how those data compare to the national picture. 
+<br>
+<br>
 
-#### Below are a series of questions used to help explore the data, develop an analysis and determine the best visualizations for the dashboard. 
+## <a name="technologies"></a>Technologies
+Project is created with:
+* Excel for data analysis and visualizations
+<br>
+<br>
 
-_________________________________________________________________
+## <a name="files"></a>Files in this Repository
+All of the analysis can be found in the analysis_elderly_low_income.xlsx excel file.
+The final dashboard is the PDF file.
+<br>
+<br>
 
-### Data Exploration Questions
+## <a name="data"></a>Data Exploration Questions
 
 1. Start by creating a table containing the state names, the number of total returns filed, and the number of elderly returns filed. Create a calculated column for the percentage of elderly returns out of total returns filed. Create this table in a new worksheet any way you'd like (recall `tidy data`, where each row is an observation and each column is a variable). One function you might find helpful for this task is the `OFFSET()` function.
 
@@ -28,15 +47,9 @@ _________________________________________________________________
 4. Pull the list of top 10 states with the highest percentage of ` < $1` tax returns. Do this also for the highest percentage of ` > $1,000,000` returns. Can you think of contextual data that could help you understand these results better?
 
 5. Use your findings from the above exercise and any other analyses you think of to create charts or visualizations that might help guide the decision making at HUA. Remember that HUA's goal is to `provide assistance for low income and elderly taxpayers`. Your deliverable will be a single dashboard that captures what you think are the most important factors for HUA to consider.
+<br>
+<br>
 
-_________________________________________________________________
-
-### Analysis
+## <a name="analysis"></a>Analysis/Conclusions
 We determined which states had the most elderly tax returns and which states had the most low-income tax returns.  We defined low-income to be annual income of $25k or less.  When cross-referenced, we found the three states that were on both lists and determined those states would most benefit from assitance from Hand Up America.
 
-_________________________________________________________________
-
-### How to Read This Repo
-
-All of the analysis can be found in the analysis_elderly_low_income.xlsx excel file.
-The final dashboard is the PDF file.
