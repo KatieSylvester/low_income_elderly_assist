@@ -2,6 +2,7 @@
 <br>
 <br>
 ![HUA Logo](../main/images/HandUp2b.jpg)
+
 ![HUA Logo](../main/images/FightPoverty.png)
 
 ## Table of Contents
