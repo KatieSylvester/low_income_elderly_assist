@@ -17,7 +17,6 @@ We were tasked with creating a dashboard for Hand Up America, an organization th
 <br>
 
 ## <a name="technologies"></a>Technologies
-Project is created with:
 * Excel for data analysis and visualizations
 <br>
 <br>
