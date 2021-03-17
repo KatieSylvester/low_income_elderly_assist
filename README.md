@@ -21,7 +21,6 @@ We were tasked with creating a dashboard for Hand Up America, an organization th
 ## <a name="technologies"></a>Technologies
 * Excel for data analysis and visualizations
 <br>
-<br>
 
 ## <a name="files"></a>Files in this Repository
 All of the analysis can be found in the analysis_elderly_low_income.xlsx excel file.
