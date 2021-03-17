@@ -1,7 +1,6 @@
 ## Excel Dashboard For Informing Low Income and Elderly Assistance Grants
 <br>
 <br>
-![HUA logo](../main/images/HandUp_logo.png)
 
 ## Table of Contents
 * [General Information](#general-information)
